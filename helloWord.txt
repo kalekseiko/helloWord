@@ -1,1 +1,1 @@
-print("Hello")
+print("Бла блабла close TTT-24")
